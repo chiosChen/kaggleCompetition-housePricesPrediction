@@ -26,4 +26,4 @@ The final winner is XGBoost!
 
 # Report
 
-Report: 
+Report: https://github.com/chiosChen/kaggleCompetition-housePricesPrediction/blob/main/Group%20ACCS%20Final%20Report.pdf
